@@ -29,11 +29,14 @@ My Programming Language Stats
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 November 2025 - To: 17 May 2026
+Vue          8 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java         6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+JavaScript   6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+PHP          3 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Python       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Dart         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
-Total Time: 0 secs
-
-No activity tracked
 ```
 
 <!--END_SECTION:waka-->
