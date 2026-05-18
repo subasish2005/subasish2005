@@ -41,9 +41,9 @@ jobs:
   uses: actions-js/profile-readme@v1
   with:
     # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-    github_token: 
+    github_token: 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
     # Github profile username
-    username: 
+    username:subasish2005
     # TEMPLATE.md file path
     template: # default is ./TEMPLATE.md
     # README.md output file path
