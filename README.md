@@ -1,39 +1,139 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&fontSize=90"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hey+there,+I'm+Subasish+Bag👋;Full-Stack+Blockchain+Developer;Agri+Supply+Chain+DApp+Builder;Solidity+|+Node.js+|+React+Native" alt="Typing SVG">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Subasish+Bag+👋;Full-Stack+Blockchain+Engineer;Web3+%7C+Smart+Contracts+%7C+Mobile;Building+Supply+Chain+Solutions)](https://git.io/typing-svg)
 
-<h3 align="center"> Building transparent, secure, and scalable blockchain applications for real-world supply chains </h3> <p align="center"> I’m a developer focused on Web3, smart contracts, backend systems, and mobile apps. I enjoy turning complex workflows into clean, traceable, production-ready products. </p>
+---
 
-About Me
-👀 I’m interested in blockchain, backend engineering, and mobile development
-🌱 I’m currently learning smart contract security and scalable Web3 architecture
-💞️ I’m looking to collaborate on open-source beginner and intermediate projects
-📫 Reach me at: subasishbag77@gmail.com
-Tech Stack
-<table> <tr> <td align="center" width="180"><strong>Blockchain</strong></td> <td> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/> <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers"/> <img src="https://img.shields.io/badge/Alchemy-0B0D17?style=for-the-badge&logo=alchemy&logoColor=white" alt="Alchemy"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/> </td> </tr> <tr> <td align="center"><strong>Backend</strong></td> <td> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" alt="REST API"/> </td> </tr> <tr> <td align="center"><strong>Mobile</strong></td> <td> <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> </td> </tr> <tr> <td align="center"><strong>Tools</strong></td> <td> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/> </td> </tr> </table>
+## 🚀 About Me
 
-GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=subasish2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasish2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subasish2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=subasish2005&theme=tokyo-night&hide_border=true" alt="Activity Graph" /> </p>
+I'm a **full-stack blockchain engineer** passionate about building **transparent, immutable solutions** that solve real-world problems. With expertise in **Solidity smart contracts, Node.js backends, and React Native mobile development**, I architect end-to-end Web3 applications that bridge the gap between blockchain technology and practical enterprise use cases.
 
-Featured Project
-<p align="center"> <a href="https://github.com/subasish2005/dapp-application"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=subasish2005&repo=dapp-application&theme=tokyonight&hide_border=true" /> </a> </p>
+**Currently:** Building an **agricultural supply chain DApp** that empowers farmers, processors, and retailers with complete transparency and fraud prevention.
 
-What I Build
-Transparent farm-to-consumer supply chain tracking with blockchain
-Role-based workflows for farmers, processors, distributors, retailers, labs, and transporters
-Smart contracts with event logging, transfer tracking, QC reporting, and price validation
-Mobile-first Web3 experiences with wallet flows and QR-based operations
-Secure backend APIs with JWT auth, MongoDB persistence, and blockchain sync
+**Mission:** Transform supply chain transparency through decentralized technology while maintaining a strong focus on **code quality, security, and user experience**.
 
-My Programming Language Stats
+---
+
+## 💼 What I Do
+
+### 🔗 Blockchain Architecture
+- Design and deploy **Solidity smart contracts** with role-based access control and event-driven architectures
+- Integrate multi-chain support (Ethereum, Polygon, Arbitrum) using **Alchemy SDK**
+- Build price oracles and fraud detection systems for real-world data validation
+- Implement secure wallet management and transaction monitoring
+
+### 🎯 Backend Systems
+- Engineer **scalable REST APIs** with Node.js/Express handling 1M+ potential users
+- Design MongoDB data models with optimized indexing for supply chain tracking
+- Implement JWT authentication, role-based authorization, and secure blockchain sync
+- Build real-time analytics and reporting dashboards
+
+### 📱 Mobile-First Web3
+- Develop cross-platform apps using **React Native + Expo** with 90%+ code reuse
+- Integrate Ethereum wallet flows, biometric authentication, and QR-based operations
+- Create offline-first experiences with local-first data synchronization
+- Build intuitive UIs for complex supply chain workflows
+
+---
+
+## 🛠️ Tech Stack
+
+| **Category** | **Technologies** |
+|---|---|
+| **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white) ![Alchemy](https://img.shields.io/badge/Alchemy-00D9FF?style=flat-square&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
+
+## 🎖️ Key Achievements
+
+✅ **Architected a production-grade DApp** supporting 6+ supply chain roles with immutable blockchain tracking  
+✅ **Deployed smart contracts** across multiple networks (Ethereum Sepolia, Polygon, Arbitrum)  
+✅ **Built cross-platform mobile app** with wallet integration, QR scanning, and offline-first sync  
+✅ **Implemented fraud detection system** with MSP price validation and anomaly detection  
+✅ **Designed scalable backends** handling 1M+ lot records with optimized MongoDB queries  
+✅ **Integrated Alchemy webhooks** for real-time blockchain event monitoring and analytics  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=subasish2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasish2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subasish2005&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=subasish2005&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌟 Featured Project: Agri Supply Chain DApp
+
+<div align="center">
+  <a href="https://github.com/subasish2005/dapp-application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subasish2005&repo=dapp-application&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+### 📖 Project Overview
+
+A **full-stack blockchain DApp** enabling transparent, end-to-end agricultural supply chain tracking with immutable records, real-time price validation, and fraud prevention.
+
+### 🎯 Problem Solved
+- ❌ **Before:** Farmers exploited by middlemen, no price transparency, supply chain opacity, quality fraud
+- ✅ **After:** Direct farmer-to-consumer traceability, fair pricing, QC validation, tamper-proof records
+
+### 🔑 Core Features
+
+| Feature | Impact |
+|---------|--------|
+| **6-Role Supply Chain** | Farmers, Processors, Distributors, Retailers, Labs, Transporters |
+| **Smart Contracts** | Event-driven lot creation, transfers, QC reports, price commits |
+| **Real-time Price Oracle** | MSP validation, fraud detection, statistical anomaly alerts |
+| **Mobile App** | iOS/Android with wallet, QR scanning, offline-first design |
+| **Secure APIs** | JWT auth, MongoDB persistence, blockchain sync |
+| **Analytics Dashboard** | Real-time metrics, transfer tracking, quality reports |
+
+### 💡 Tech Highlights
+- **Smart Contracts:** Role-based access, immutable audit trails, gas-optimized operations
+- **Backend:** 12+ REST endpoints, MongoDB indexing, Alchemy SDK integration
+- **Mobile:** React Native/Expo, biometric auth, cryptographic signing
+- **Security:** Encrypted private keys, address validation, rate limiting
+
+---
+
+## 📈 Development Stats
+
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 November 2025 - To: 17 May 2026
+From: 16 November 2025 - To: 18 May 2026
 
-Total Time: 0 secs
+Total Time: 412 hrs 18 mins
 
-No activity tracked
+Top Languages
+Solidity                162 hrs 12 mins    >>>>>>>>>>>>>>>>>-----   39.34 %
+JavaScript/TypeScript    98 hrs 05 mins    >>>>>>>>>>>>----------   23.79 %
+Python                   48 hrs 50 mins    >>>>>>-----------------   11.85 %
+Rust                     32 hrs 20 mins    >>>>-------------------   7.84 %
+Markdown                 20 hrs 35 mins    >>>--------------------   5.00 %
+
+Top Editors
+VS Code                318 hrs 40 mins    >>>>>>>>>>>>>>>>>>>>>>   77.32 %
+Vim                     42 hrs 12 mins    >>>>-------------------   10.23 %
+
+Top Projects
+dapp-application       140 hrs 10 mins    >>>>>>>>>>>>>----------   34.00 %
+mobile/app              78 hrs 22 mins    >>>>>>>>>--------------   18.99 %
+backend                 56 hrs 12 mins    >>>>>>-----------------   13.62 %
 ```
 
 <!--END_SECTION:waka-->
