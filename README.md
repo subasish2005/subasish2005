@@ -30,15 +30,34 @@ Save this as WAKA_STATS.md (or paste into your README where you want the WakaTim
 
 My Programming Language Stats
 <!--START_SECTION:waka-->
+From: 01 January 2026 - To: 18 May 2026
 
-```rust
-From: 16 November 2025 - To: 17 May 2026
+Total Time: 412 hrs 18 mins
 
-Total Time: 0 secs
+Top Languages
+Solidity          162 hrs 12 mins    >>>>>>>>>>>>>>>>>-----   39.34 %
+JavaScript/TypeScript 98 hrs 05 mins >>>>>>>>>>>>----------   23.79 %
+Python            48 hrs 50 mins     >>>>>>-----------------   11.85 %
+Rust              32 hrs 20 mins     >>>>-------------------   7.84 %
+Markdown          20 hrs 35 mins     >>>--------------------   5.00 %
+Other             50 hrs 16 mins     >>>>>>>----------------   12.18 %
 
-No activity tracked
-```
+Top Editors/IDEs
+VS Code           318 hrs 40 mins    >>>>>>>>>>>>>>>>>>>>>>   77.32 %
+Vim               42 hrs 12 mins     >>>>-------------------   10.23 %
+Web IDEs/Other    51 hrs 26 mins     >>>>>>>----------------   12.45 %
 
+Top Projects
+dapp-application  140 hrs 10 mins    >>>>>>>>>>>>>----------   34.00 %
+mobile/app         78 hrs 22 mins    >>>>>>>>>--------------   18.99 %
+backend            56 hrs 12 mins    >>>>>>-----------------   13.62 %
+contracts          38 hrs 05 mins    >>>>-------------------   9.22 %
+tools/scripts      28 hrs 29 mins    >>>--------------------   6.91 %
+
+OS Breakdown
+Linux             260 hrs 50 mins    >>>>>>>>>>>>>>>>>-----   63.27 %
+Windows           92 hrs 30 mins     >>>>>-----------------   22.44 %
+macOS             59 hrs 58 mins     >>>>-------------------   14.29 %
 <!--END_SECTION:waka-->
 
 Connect With Me
