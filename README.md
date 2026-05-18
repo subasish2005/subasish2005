@@ -25,7 +25,9 @@ Smart contracts with event logging, transfer tracking, QC reporting, and price v
 Mobile-first Web3 experiences with wallet flows and QR-based operations
 Secure backend APIs with JWT auth, MongoDB persistence, and blockchain sync
 WakaTime Stats
-<!--START_SECTION:waka--> <!-- This section will be replaced automatically by GitHub Actions --> <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 Connect With Me
 <p align="center"> <a href="mailto:subasishbag77@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
