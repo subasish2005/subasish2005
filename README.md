@@ -90,7 +90,16 @@
 - Mobile-first Web3 experiences with wallet flows and QR-based operations
 - Secure backend APIs with JWT auth, MongoDB persistence, and blockchain sync
 
-### WakaTime Stats
+### Dev Metrics
+
+<!--START_SECTION:waka-->
+<!-- This gets replaced by GitHub Actions -->
+<!--END_SECTION:waka-->
+
+### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=subasish2005&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subasish2005&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=subasish2005&theme=tokyonight)
 
 ### Connect With Me
 
