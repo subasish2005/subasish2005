@@ -92,12 +92,6 @@
 
 ### WakaTime Stats
 
-<!--START_SECTION:waka-->
-<!-- This section will be replaced automatically by GitHub Actions -->
-<!--END_SECTION:waka-->
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subasish2005&theme=tokyo-night&hide_border=true)](https://github.com/subasish2005/github-readme-activity-graph)
-
 ### Connect With Me
 
 <p align="center">
