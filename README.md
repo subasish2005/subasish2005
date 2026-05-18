@@ -60,10 +60,7 @@ I'm a **full-stack blockchain engineer** passionate about building **transparent
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=subasish2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasish2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subasish2005&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
