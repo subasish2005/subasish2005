@@ -72,40 +72,6 @@ I'm a **full-stack blockchain engineer** passionate about building **transparent
 
 ---
 
-## 🌟 Featured Project: Agri Supply Chain DApp
-
-<div align="center">
-  <a href="https://github.com/subasish2005/dapp-application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subasish2005&repo=dapp-application&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-### 📖 Project Overview
-
-A **full-stack blockchain DApp** enabling transparent, end-to-end agricultural supply chain tracking with immutable records, real-time price validation, and fraud prevention.
-
-### 🎯 Problem Solved
-- ❌ **Before:** Farmers exploited by middlemen, no price transparency, supply chain opacity, quality fraud
-- ✅ **After:** Direct farmer-to-consumer traceability, fair pricing, QC validation, tamper-proof records
-
-### 🔑 Core Features
-
-| Feature | Impact |
-|---------|--------|
-| **6-Role Supply Chain** | Farmers, Processors, Distributors, Retailers, Labs, Transporters |
-| **Smart Contracts** | Event-driven lot creation, transfers, QC reports, price commits |
-| **Real-time Price Oracle** | MSP validation, fraud detection, statistical anomaly alerts |
-| **Mobile App** | iOS/Android with wallet, QR scanning, offline-first design |
-| **Secure APIs** | JWT auth, MongoDB persistence, blockchain sync |
-| **Analytics Dashboard** | Real-time metrics, transfer tracking, quality reports |
-
-### 💡 Tech Highlights
-- **Smart Contracts:** Role-based access, immutable audit trails, gas-optimized operations
-- **Backend:** 12+ REST endpoints, MongoDB indexing, Alchemy SDK integration
-- **Mobile:** React Native/Expo, biometric auth, cryptographic signing
-- **Security:** Encrypted private keys, address validation, rate limiting
-
----
 
 ## 📈 Development Stats
 
