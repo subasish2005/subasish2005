@@ -78,25 +78,14 @@ I'm a **full-stack blockchain engineer** passionate about building **transparent
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 November 2025 - To: 18 May 2026
+From: 17 November 2025 - To: 18 May 2026
 
-Total Time: 412 hrs 18 mins
+Total Time: 3 hrs 13 mins
 
-Top Languages
-Solidity                162 hrs 12 mins    >>>>>>>>>>>>>>>>>-----   39.34 %
-JavaScript/TypeScript    98 hrs 05 mins    >>>>>>>>>>>>----------   23.79 %
-Python                   48 hrs 50 mins    >>>>>>-----------------   11.85 %
-Rust                     32 hrs 20 mins    >>>>-------------------   7.84 %
-Markdown                 20 hrs 35 mins    >>>--------------------   5.00 %
-
-Top Editors
-VS Code                318 hrs 40 mins    >>>>>>>>>>>>>>>>>>>>>>   77.32 %
-Vim                     42 hrs 12 mins    >>>>-------------------   10.23 %
-
-Top Projects
-dapp-application       140 hrs 10 mins    >>>>>>>>>>>>>----------   34.00 %
-mobile/app              78 hrs 22 mins    >>>>>>>>>--------------   18.99 %
-backend                 56 hrs 12 mins    >>>>>>-----------------   13.62 %
+JavaScript   1 hr 16 mins          >>>>>>>>>----------------   37.97 %
+Java         40 mins               >>>>>--------------------   19.84 %
+Markdown     29 mins               >>>>---------------------   14.49 %
+Bash         14 mins               >>-----------------------   07.36 %
 ```
 
 <!--END_SECTION:waka-->
