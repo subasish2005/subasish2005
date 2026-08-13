@@ -78,14 +78,14 @@ I'm a **full-stack blockchain engineer** passionate about building **transparent
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 February 2026 - To: 06 August 2026
+From: 11 February 2026 - To: 12 August 2026
 
-Total Time: 167 hrs 30 mins
+Total Time: 169 hrs 16 mins
 
-Markdown     143 hrs 24 mins       >>>>>>>>>>>>>>>>>>>>>----   84.90 %
-Java         18 hrs 37 mins        >>>----------------------   11.02 %
-JavaScript   3 hrs 50 mins         >------------------------   02.28 %
-Other        1 hr 24 mins          -------------------------   00.84 %
+Markdown     143 hrs 37 mins       >>>>>>>>>>>>>>>>>>>>>----   84.14 %
+Java         20 hrs 10 mins        >>>----------------------   11.82 %
+JavaScript   3 hrs 50 mins         >------------------------   02.25 %
+Other        1 hr 24 mins          -------------------------   00.83 %
 ```
 
 <!--END_SECTION:waka-->
