@@ -78,7 +78,7 @@ I'm a **full-stack blockchain engineer** passionate about building **transparent
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 April 2026 - To: 09 October 2026
+From: 13 April 2026 - To: 12 October 2026
 
 Total Time: 188 hrs 35 mins
 
